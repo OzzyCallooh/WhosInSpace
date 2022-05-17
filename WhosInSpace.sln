@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhosInSpace", "WhosInSpace\WhosInSpace.csproj", "{3C035325-3C8E-45A5-B4FC-1A48E8872828}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4D3AA528-7AC5-422F-866F-DC9C3FA65F04}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C035325-3C8E-45A5-B4FC-1A48E8872828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C035325-3C8E-45A5-B4FC-1A48E8872828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C035325-3C8E-45A5-B4FC-1A48E8872828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C035325-3C8E-45A5-B4FC-1A48E8872828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02ED37F2-CA39-46A1-8F06-8C2A7235335E}
+	EndGlobalSection
+EndGlobal
